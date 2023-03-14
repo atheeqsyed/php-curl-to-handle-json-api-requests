@@ -1,5 +1,11 @@
 # php-curl-to-handle-json-api-requests
 
+- interacting with an external API using GET, POST, PUT requests
+- sending post data with the request
+- setting HTTP headers
+- decoding and encoding JSON data
+- writing the response to a file
+
 ![image](https://user-images.githubusercontent.com/99461347/225122879-ea1bb035-4359-4ce8-bf44-bbff004b94a0.png)
 
 
